@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="idea-libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/annotations.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/asm4-all.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/extensions.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-all-2.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-14.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jdom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jna-utils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jna.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsr166e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/objenesis-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/openapi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oromatcher.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/picocontainer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/snappy-java-1.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/trove4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xstream-1.4.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
